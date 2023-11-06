@@ -1,4 +1,4 @@
-## Olá me chamo Eric Oliveira, desenvolvedor focado em back-end e dados!
+## Olá, me chamo Eric Oliveira, desenvolvedor focado em back-end e dados!
 ![Eric Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=ericoliveirajs&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoliveirajs)](https://github.com/ericoliveirajs/github-readme-stats)
@@ -20,5 +20,3 @@
   <a href="https://www.linkedin.com/in/ericoliveirajs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation]
