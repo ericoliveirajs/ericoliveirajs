@@ -1,4 +1,4 @@
-## Olá, me chamo Eric Oliveira, desenvolvedor focado em back-end e dados!
+## Olá, me chamo Eric Oliveira, desenvolvedor Fullstack
 ![Eric Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=ericoliveirajs&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoliveirajs)](https://github.com/ericoliveirajs/github-readme-stats)
